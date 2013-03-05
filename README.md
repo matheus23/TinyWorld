@@ -1,4 +1,4 @@
-[Screenshot][http://dl.dropbox.com/u/45530199/Games/screenshot37.png]
+[Screenshot]: http://dl.dropbox.com/u/45530199/Games/screenshot37.png
 
 # Tiny World: Who stole my Pixels?
 
